@@ -8,4 +8,4 @@ Klear is an intuitive solution to the careless disposal of waste. We classify tr
 We act as a middle-man service to earn profits while saving the environment.
 
 ## Usage
-This repository contains the website for Klear. It's already hosted <a href="syncx.github.io/klear">here.</a>
+This repository contains the website for Klear. It's already hosted <a href="sync-x.github.io/klear">here.</a>
